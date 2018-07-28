@@ -1,7 +1,7 @@
 # Game-loved-by-all
 A kind of memory game
 
-#### https://pacific-fortress-96034.herokuapp.com/
+#### https://afternoon-oasis-35225.herokuapp.com/
 #### https://github.com/grmrh/Game-loved-by-all
 
 This application is a simple versio of Memory Game which is loved by children and adult alike. 
