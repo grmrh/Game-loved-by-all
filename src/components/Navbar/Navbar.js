@@ -1,14 +1,14 @@
-import 'bootstrap/dist/css/bootstrap.min.css';
+import'bootstrap/dist/css/bootstrap.min.css';
 import React from 'react';
-import  'jquery/dist/jquery.min.js';
-import  'popper.js';
+import 'jquery/dist/jquery.min.js';
+import 'popper.js';
 import 'bootstrap/js/dist/collapse';
 import 'bootstrap/dist/js/bootstrap.bundle.min'
 import './Navbar.css';
 
 const Navbar = props => {
 return (
-<nav className="navbar navbar-expand-lg navbar-dark bg-dark">
+<nav className="navbar navbar-expand-lg fixed-top navbar-dark bg-dark">
   <a className="navbar-brand text-md text-light">{props.children}</a>
   <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
     <span className="navbar-toggler-icon"></span>
